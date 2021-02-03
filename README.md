@@ -1,3 +1,3 @@
 # DataStructAndAlgo
 
-Example of Common Algorithms
+Examples of common algorithms
